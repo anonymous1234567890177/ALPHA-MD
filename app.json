@@ -30,12 +30,12 @@
     },
     "BOT_NAME": {
       "description": "You must give a name for your bot",
-      "value": "",
+      "value": "Keith MD",
       "required": false
     },
     "TIMEZONE": {
       "description": "Set your bot timezone",
-      "value": "Africa/Nairobi",
+      "value": "Africa/Harare",
       "required": false
     },
     "PUBLIC_MODE": {
@@ -45,12 +45,12 @@
     },
     "SESSION_ID": {
       "description": "Enter your session ID, the code you receive after scanning the QR code",
-      "value": "",
+      "value": "KEITH;;;H4sIAAAAAAAAA61Va4+iSBT9K5v6qjPyBk06WRBQFJ9to7LZDwUUUMpLqkBx4n/foN3pTmamtzdZPlWqqHPPvffcUz9AlmOCpqgBgx+gKHENKWqXtCkQGACtCkNUgi4IIIVgABSbNw7ey3aSELux4AxuOozu12tuPN3ZleMkur+xth3Z3FlP4NYFReUl2P8EsDcZSYdEniqRkaKcveTkmQ8m3gj3LI+zZDvIx3RSRqzPRU/g1iJCXOIsMooYpaiEyRQ1S4jLr9EfqYq8ysRVts5hblqRYewQx0Ffej4uK2zQynKLYLPVk5HyNfr50d2iarMazo2eaRf8jmUZ003DqRukFdbR0BB0ZVwW06PxoE9wlKHAClBGMW2+XHein31jeZWz2T7hvXNSiOtqmuwOVj1xRrK2SztwOzLCrMe8fI14v8QHNt68lPV8u7weNvqRmwRTx00PTbWcsttLvLJHuiS7Z+Uj8WX5ppXjf6l7OmdVwgn7g+ir+9zXr1RdWdGQO8fXa7AY+Y1g8MxpofrcF+lfVJnmjZyOy6ld1AalWsiIMhoV3q6fVHZnfeh7iiOSl6P/Th/SqvyMpWr3j87cdqxep2Cxf24MFC3XvSAlHTm96udth+Ech5vvV6aRHDVFrhEX8Y6+WIwi6XQ1Y2MomJ36uHqe+Ttu2Lk6Kz1Sn+4ZHVFjBWDA3rqgRBEmtIQU51m7x0tdAIP6GfklovfqgtTarijP6ev19TRdTlapqVaSCy+GmO0v+u6iaUGSO7q6tvwn0AVFmfuIEBSMMaF52cwQITBCBAz+ujeqzblEaU7RBAdgADiJl5W+KAiywP9Jvp9jSAksiu8ZoqALwjJPZwgMaFmhLrhf0DhZEBWdUyVZ1wyd4RlGFCRR1jRNYThTaDNMH0E3OEWEwrQAA1YWhD7DipJw6/4/PBhFMQ2F0RVR66t632BFQZZYk+8Loi7omvg5D1m+/d0FGbrQh4zvxWe7IMQloS9ZVSQ5DN40/nYIfT+vMvrcZP6wXaASDD5sI0pxFpE2syqDpR/jGg3bPMAghAlBty4IUI191OKBecQ3UaPZqx1CM4tTLv2CWFHbwTjPHr+EnCxxssB8C0UBfRM8Qf6msB78xiqexwuMokghBG05Hg7S3vmtoMcTa194nbk7vVCeE5NDE5DhsB7uo9ldlA8lohIFb1X2oH+sik1+RNln5rGwe5pS8qoLJ5eORK7CwRFmYc+n5w+4D4WDwY931x7mQYvn6vJ6LYxZ0HarjfOTGga8/LMgMpje2eT0Dx3VKMkLVLbhXnvRAgWIQpwQMABDC6JTLx8ZE1TGM3U0Uq1IHUYqeO/dmyU8Zm6+dtPCHEl4FNMJZzmqPj0my9SYFJmjW2FeX8hJ01GnSM5PvwABA3C1bSs0IW5ItD5HEefwvn0Zo37sj1zemhfVbIyTs3oNF/JyH8dWvyefmL3bUZd2aM7k4bypNwcxFxdZf7Ita++5UIgePbXRHhr6GEzH8cT13WsdX8mZy+RFzRQZnpuX8Ub1oK2Y82NDdT9TuXh9Zgm5cpab7d29JUHNgOaRXOqG6+gphPuTZuLd3NwPD+eHWd3NMnl9pPCrjzwUF2J09/zXXvxrz97Fz9y6HzBeX5HfCEzbvGzd03pd5XHuPQfYXKlNMdmI8RC67KoZS7biTaMVX59cH9zaqS4SSMO8TMEAwCwocxyALkggoer7/P7CEgS2C9JGLYpnCunb2AO1/WaZDm7/ANC8UMQgCQAA",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Insert your name here",
-      "value": "",
+      "value": "Zuka",
       "required": false
     },
     "URL": {
@@ -60,7 +60,7 @@
     },
     "NUMERO_OWNER": {
       "description": "Your phone number (exclude '+' and area code, e.g., '2547222222233')",
-      "value": "",
+      "value": "263789544743",
       "required": false
     }
   },
